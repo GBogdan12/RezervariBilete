@@ -1,0 +1,4 @@
+Iasi,Ercan,12 03 2021,17 03 2021,567,100,alin
+Bucuresti,Barcelona,12 03 2021,18 03 2021,761,200,Bogdan
+Braila,Malaga,12 03 2021,18 03 2021,300,500,Bogdan
+Timisoara,Londra,12 03 2021,21 03 2021,212,400,ion
